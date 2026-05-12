@@ -47,8 +47,8 @@ The dataset contains e-commerce shipping and customer-related information, inclu
 ecommerce-shipping-sql-analysis/
 │
 ├── README.md
-├── ecommerce_shipping_analysis.sql
-└── ecommerce_shipping_data.csv
+├── Ecommerce_Shipping_EDA.sql
+└── Ecommerce_Shipping_Data.csv
 ```
 
 ---
